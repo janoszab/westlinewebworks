@@ -1,3 +1,7 @@
+## Requirements
+- http://laravel.com/docs/4.2/installation#server-requirements
+
+
 ## Init application
 1. clone repository: `git clone git@github.com:janoszab/westlinewebworks.git`
 2. run `composer install` command in app folder
@@ -8,4 +12,4 @@
 
 
 ## Data Generate
-1. frequently run `php artisan generate:data` or create a new record for this in crontab   
+1. frequently run `php artisan generate:data` or create a new record for this in crontab
